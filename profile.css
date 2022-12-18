@@ -2,7 +2,7 @@
   margin-top:38px;
   padding:0;
   width:10;
-  background=color:#023047;
+  background-color:#023047;
   position:fixed;
   height:100%;
   overflow:auto;
@@ -11,16 +11,17 @@
 
 li a{
   display:block;
-  color:#000:
+  color:#000;
    padding:8px 16px;
   text-decoration:none;
 }
 li a.active{
-  background-color:#ffb703:
+  background-color:#ffb703;
+    color:#023047;
 }
 lia a:hover:not(.active){
   background-color:#ffb703;
-  color:#023047:
+  color:#023047;
 }
 
 .hornav{
@@ -44,28 +45,28 @@ li {
    text-decoration:none;
 }
 li a:hover:not(.active){
-  background-color:#ffb704;
+  background-color:#ffb703;
   color:#023047;
 }
 li a.active{
-  background-color:#ffb704;
+  background-color:#ffb703;
   color:#023047;
 }
 
 .elem{
   margin-left:175px;
   padding-top:100px;
-  float:left
+  float:left;
 }
 .high{
   margin-left:100px;
   padding-top:100px;
-  float:left
+  float:left;
 }
 .col{
   margin-left:100px;
   padding-top:100px;
-  float:left
+  float:left;
 }
 
 .fam{
