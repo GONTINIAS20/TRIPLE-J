@@ -14,7 +14,7 @@ color:#000;
 padding:8px 16px;
 text-decoration:none;
 }
-.li a.active{
+li a.active{
 background-color:#ffb703;
 color:#023047;
 }
@@ -24,7 +24,7 @@ color:#023047;
 }
 
 
-.hornav{
+hornav{
 list-style-type:none;
 margin:0;
 pading:0;
@@ -34,10 +34,10 @@ position:fixed;
 top:0;
 width:100%;
 }
-.li {
+li {
 float:left;
 }
-.li a{
+li a{
 display:block;
 color:#ffb703:
 text-align:center;
@@ -49,7 +49,7 @@ text-decoration:none;
 background-color:#ffb703;
 color:#023047;
 }
-.li a.active {
+li a.active {
 background-color:#ffb703;
 color:#023047;
 }
